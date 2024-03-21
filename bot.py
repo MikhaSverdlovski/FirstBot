@@ -2,7 +2,6 @@ import asyncio
 import logging
 import os
 import requests
-import datetime
 from aiogram import Bot, Dispatcher, types, F
 from Security import check_user
 from aiogram.filters.command import Command
